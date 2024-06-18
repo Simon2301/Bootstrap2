@@ -1,0 +1,9 @@
+Crear una pagina/sitio web utilizando bootstrap. Definir grid y utilizar componentes hechos pero personalizándolos 
+(color de fondo, textos, estilos, etc)  tal lo explicado en clases.
+
+Recuerden definir las columnas para que se adapten a los distintos dispositivos, utilizando los breakpoint.
+
+Entregar:
+    Enlace al repositorio en github
+    Enlace a la página publicada con github page
+    Comentarios de la clase
